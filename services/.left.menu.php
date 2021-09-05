@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Пункт1", 
+		"/services/sec/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Пункт2", 
+		"/services", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Пункт3", 
+		"/services", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Пункт4", 
+		"/services", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

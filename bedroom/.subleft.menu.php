@@ -1,0 +1,25 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Одноместные", 
+		"../bedroom", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Двухместные", 
+		"../bedroom", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Детские", 
+		"../bedroom", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
